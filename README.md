@@ -1,5 +1,5 @@
 # Matthew Cahalane
-Hi there 👋 — Software engineer · Clojure & Rust enthusiast · Blockchain explorer
+Hi there 👋 — Senior Software engineer · Clojure & Rust enthusiast · Blockchain explorer
 
 ---
 
@@ -13,11 +13,13 @@ Building reliable, elegant systems with a focus on full‑stack Clojure/ClojureS
 - Rust — safe, high-performance systems and WebAssembly experiments  
 - Databases & CI — PostgreSQL tuning, Liquibase migrations, Gradle & Clojurephant, GitLab/Jenkins pipelines  
 - Containers & Automation — Docker-driven workflows and deployable artefacts
+- OpenTelemetry - Monitoring and alerting.
+- TypeScript & React.
 
 ---
 
 ## Graphs & Visualizations
-I build clean, interactive visualizations to explore data and systems: transaction/network graphs, performance dashboards, and observability views. Typical toolset: D3/Vega/Observable, Grafana/Prometheus, and lightweight SVG/WebGL renderers for high‑density data.
+I build clean, interactive visualizations to explore data and systems: transaction/network graphs, performance dashboards, and observability views. Typical toolset: Grafana/Prometheus, OpenTelemetry.
 
 ---
 
@@ -25,6 +27,7 @@ I build clean, interactive visualizations to explore data and systems: transacti
 - Solidity & smart contracts — secure patterns and developer tooling  
 - Rust for systems & Wasm — performance where it matters  
 - Exploratory dashboards — making complex data feel intuitive
+- OpenTelemetry & K8's - Infrastructure Monitoring.
 
 ---
 
