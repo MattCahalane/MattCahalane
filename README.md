@@ -1,5 +1,5 @@
 # Matthew Cahalane
-Hi there 👋 — Senior Software engineer · Clojure & Rust enthusiast · Blockchain explorer
+Hi there 👋 — Senior Software engineer · Clojure, TypeScript, React & Rust enthusiast · Blockchain explorer
 
 ---
 
