@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 About me
+## 👋 λbout me
 
 Senior Software Engineer focused on full-stack **Clojure/ClojureScript**, **Java**, robust JVM tooling, and modern infra.  
 I like concise abstractions, strong types where useful, and reproducible builds.
